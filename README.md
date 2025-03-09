@@ -17,14 +17,18 @@ Uses Adam optimizer for weight updates and learning, and Conv2d for CNN layers.
 ## Screenshots
 
 Accuracy of model over training
-![Accuracy Graph](Screenshots/Accuracy Graph.png)
+![Accuracy Graph](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Accuracy%20Graph.png)
 
 Loss of model over training
-![Loss Graph](Screenshots/Loss Graph.png)
+![Loss Graph](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Loss%20Graph.png)
 
 Classification Results:
-![1](Screenshots/Classification Result 1.png)
-![2](Screenshots/Classification Result 2.png)
-![3](Screenshots/Classification Result 3.png)
-![4](Screenshots/Classification Result 4.png)
-![5](Screenshots/Classification Result 5.png)
+![1](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Classification%20Result%201.png)
+
+![2](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Classification%20Result%202.png)
+
+![3](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Classification%20Result%203.png)
+
+![4](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Classification%20Result%204.png)
+
+![5](https://github.com/JamesTzh/AI-Hawker-Classification/blob/main/Screenshots/Classification%20Result%205.png)
